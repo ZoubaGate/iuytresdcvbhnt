@@ -150,7 +150,7 @@ L'IA a assisté dans les tâches suivantes :
 
 ## 👤 Auteur
 
-**Siddharth Zoubagate**  
+**ZOUBAIR SIDIBE**  
 CIP : `sidz0801`  
 Université de Sherbrooke — Département d'informatique, faculté des sciences  
 Cours : **IGE 511 — Aspects informatiques du commerce électronique**
