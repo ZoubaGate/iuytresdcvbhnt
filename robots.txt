@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://sidz0801.netlify.app/sitemap.xml
