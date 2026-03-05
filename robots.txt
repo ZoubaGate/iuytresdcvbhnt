@@ -1,4 +1,13 @@
 User-agent: *
-Disallow:
-
+Allow: /
 Sitemap: https://sidz0801.netlify.app/sitemap.xml
+
+# Optimisation pour Googlebot
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+# Optimisation pour Bingbot
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 0
