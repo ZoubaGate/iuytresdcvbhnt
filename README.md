@@ -5,7 +5,7 @@
 [![Auteur](https://img.shields.io/badge/CIP-sidz0801-1a1a1a)](https://github.com/ZoubaGate)
 
 > Projet réalisé dans le cadre du cours **IGE 511 — Aspects informatiques du commerce électronique**  
-> Université de Sherbrooke · **Siddharth Zoubagate** · CIP : `sidz0801`
+> Université de Sherbrooke · **ZOUBAIR SIDIBE** · CIP : `sidz0801`
 
 ---
 
@@ -56,10 +56,10 @@ iuytresdcvbhnt/
 
 La section originale de ce site explique **quelle combinaison ERP + CRM choisir** selon 4 profils :
 
-- 🏢 **SAP S/4HANA** → SAP Sales Cloud ⭐ / Salesforce ✅ / Dynamics Sales 🔶
-- 🏪 **Odoo (PME)** → Odoo CRM intégré ⭐ / HubSpot ✅ / Zoho CRM 🔶
-- 🏦 **Microsoft Dynamics 365** → Dynamics Sales ⭐ / Salesforce ✅ / HubSpot 🔶
-- 🚀 **Oracle NetSuite (Scale-up)** → Salesforce ⭐ / HubSpot ✅ / Zoho CRM 🔶
+- 🏢 **SAP S/4HANA** → SAP Sales Cloud ⭐ / Salesforce ✅ / Dynamics Sales 
+- 🏪 **Odoo (PME)** → Odoo CRM intégré ⭐ / HubSpot ✅ / Zoho CRM 
+- 🏦 **Microsoft Dynamics 365** → Dynamics Sales ⭐ / Salesforce ✅ / HubSpot 
+- 🚀 **Oracle NetSuite (Scale-up)** → Salesforce ⭐ / HubSpot ✅ / Zoho CRM 
 
 ---
 
@@ -100,7 +100,7 @@ La section originale de ce site explique **quelle combinaison ERP + CRM choisir*
 
 ---
 
-## 📊 Changelog
+##  Changelog
 
 | Date | Modification |
 |------|-------------|
@@ -108,10 +108,12 @@ La section originale de ce site explique **quelle combinaison ERP + CRM choisir*
 | 2025-02-04 | Ajout Open Graph, Twitter Card, JSON-LD complets (WebSite, WebPage, FAQPage, BreadcrumbList) |
 | 2025-02-11 | Refonte visuelle : Lora serif pour titres, Source Sans 3 pour le corps, palette couleur, hero deux colonnes |
 | 2025-02-18 | Tableau comparatif ERP vs CRM, 8 cartes solutions avec liens officiels |
-| 2025-02-25 | Section Ressources : liens hanm1601.netlify.app, Instagram @iuytresdcvbhnt, Salesforce Trailhead, blog Odoo. Stratégie linking externe. |
-| 2025-03-04 | Optimisation SEO avancée, FAQ étendue à 6 questions, améliorations accessibilité, Search Console |
-| 2025-03-05 | CSS externalisé, police naturelle serif, section Pairings ERP+CRM (4 profils), mention IA (Claude), README complet |
-| 2025-03-05 | Section Ressources enrichie : ERP (SAP, Odoo, Dynamics, NetSuite) + CRM (Salesforce, HubSpot, Zoho, Trailhead). Ajout TikTok @iuytresdcvbhnt. Nom et CIP agrandis dans le footer. |
+| 2025-02-25 | Section Ressources : 6 liens externes indexés (hanm1601.netlify.app, Instagram @iuytresdcvbhnt, Trailhead, Odoo blog, GitHub). Stratégie linking externe. |
+| 2025-03-04 | Optimisation SEO avancée, FAQ étendue à 6 questions schema.org FAQPage, améliorations accessibilité, soumission Search Console |
+| 2025-03-05 | CSS externalisé, police naturelle Lora serif, section Pairings ERP+CRM (4 profils), mention IA (Claude), README complet |
+| 2025-03-05 | Section Ressources enrichie en 3 catégories : ERP, CRM, Comptes sociaux (Instagram + TikTok @iuytresdcvbhnt). Nom et CIP agrandis dans le footer. |
+| 2025-03-11 | Optimisation balise title et meta description pour le CTR. Ajout `lang="fr"` sur la balise html. Mise à jour `lastmod` sitemap.xml. |
+| 2025-03-18 | Renforcement meta robots, enrichissement sémantique de la section "Qu'est-ce que iuytresdcvbhnt". 10e entrée changelog — conformité TP1 IGE 511. |
 
 ---
 
